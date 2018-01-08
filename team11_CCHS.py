@@ -7,7 +7,7 @@ import random
 #     move: A function that returns 'c' or 'b'
 ####
 
-team_name =  # Only 10 chars displayed.
+team_name = 'Vebqtmeqfx'
 strategy_name = 
 strategy_description = 
     
