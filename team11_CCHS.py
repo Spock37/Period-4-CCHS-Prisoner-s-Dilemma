@@ -7,7 +7,7 @@ import random
 #     move: A function that returns 'c' or 'b'
 ####
 
-team_name = 'Vebqtmeqfx'
+team_name = 'The Borg'
 strategy_name = 
 strategy_description = 
     
